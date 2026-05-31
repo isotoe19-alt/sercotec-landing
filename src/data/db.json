@@ -1,0 +1,108 @@
+{
+  "servicios": [
+    {
+      "id": 1,
+      "titulo": "Asesoría en Gestión Empresarial",
+      "descripcion": "Orientación especializada en administración, finanzas y planificación estratégica para fortalecer tu empresa.",
+      "imagen": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=400&h=200&fit=crop"
+    },
+    {
+      "id": 2,
+      "titulo": "Marketing Digital",
+      "descripcion": "Estrategias digitales para aumentar la visibilidad de tu negocio y captar nuevos clientes en el mundo online.",
+      "imagen": "https://images.unsplash.com/photo-1432888498266-38ffec3eaf0a?w=400&h=200&fit=crop"
+    },
+    {
+      "id": 3,
+      "titulo": "Innovación y Tecnología",
+      "descripcion": "Incorpora herramientas digitales y procesos innovadores para optimizar tus operaciones y crecer.",
+      "imagen": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=200&fit=crop"
+    },
+    {
+      "id": 4,
+      "titulo": "Acceso a Financiamiento",
+      "descripcion": "Te conectamos con programas de financiamiento y fondos disponibles para impulsar tu proyecto.",
+      "imagen": "https://images.unsplash.com/photo-1579621970563-ebec7560ff3e?w=400&h=200&fit=crop"
+    },
+    {
+      "id": 5,
+      "titulo": "Networking Empresarial",
+      "descripcion": "Espacios de encuentro con otros empresarios, instituciones y redes de apoyo para crecer juntos.",
+      "imagen": "https://images.unsplash.com/photo-1515187029135-18ee286d815b?w=400&h=200&fit=crop"
+    },
+    {
+      "id": 6,
+      "titulo": "Capacitaciones Especializadas",
+      "descripcion": "Talleres y cursos en áreas clave como ventas, liderazgo, contabilidad y transformación digital.",
+      "imagen": "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=400&h=200&fit=crop"
+    }
+  ],
+  "testimonios": [
+    {
+      "id": 1,
+      "nombre": "María González",
+      "empresa": "Panadería El Trigal",
+      "comentario": "Gracias al Centro de Negocios pude formalizar mi empresa y acceder a financiamiento. Hoy tengo 3 locales y sigo creciendo.",
+      "avatar": "https://i.pravatar.cc/100?img=1"
+    },
+    {
+      "id": 2,
+      "nombre": "Carlos Pérez",
+      "empresa": "Taller Mecánico CP",
+      "comentario": "El acompañamiento que recibí fue fundamental para ordenar mis finanzas y digitalizar mi negocio. Lo recomiendo 100%.",
+      "avatar": "https://i.pravatar.cc/100?img=3"
+    },
+    {
+      "id": 3,
+      "nombre": "Ana Martínez",
+      "empresa": "Boutique Florencia",
+      "comentario": "Las capacitaciones en marketing digital transformaron mi negocio. Ahora vendo por Instagram y duplicé mis ventas.",
+      "avatar": "https://i.pravatar.cc/100?img=5"
+    },
+    {
+      "id": 4,
+      "nombre": "Roberto Silva",
+      "empresa": "Constructora Silva e Hijos",
+      "comentario": "Excelente equipo profesional. Me ayudaron a postular a fondos SERCOTEC y a estructurar mejor mi empresa.",
+      "avatar": "https://i.pravatar.cc/100?img=7"
+    }
+  ],
+  "faqs": [
+    {
+      "id": 1,
+      "pregunta": "¿Quiénes pueden acceder a los servicios del Centro de Negocios?",
+      "respuesta": "Nuestros servicios están disponibles para micro, pequeñas y medianas empresas ubicadas en la Región Metropolitana, tanto formales como en proceso de formalización."
+    },
+    {
+      "id": 2,
+      "pregunta": "¿Los servicios tienen algún costo?",
+      "respuesta": "La mayoría de nuestros servicios son gratuitos o de bajo costo, financiados por SERCOTEC. Contáctanos para conocer las condiciones específicas de cada programa."
+    },
+    {
+      "id": 3,
+      "pregunta": "¿Cómo puedo agendar una asesoría?",
+      "respuesta": "Puedes agendar una asesoría a través de nuestro formulario de contacto, por correo electrónico o visitándonos directamente en nuestras oficinas en Metro Toesca."
+    },
+    {
+      "id": 4,
+      "pregunta": "¿Qué documentos necesito para comenzar?",
+      "respuesta": "Para acceder a nuestros servicios necesitas tu RUT, antecedentes básicos de tu empresa y describir brevemente tu actividad comercial. Te orientaremos en cada paso."
+    },
+    {
+      "id": 5,
+      "pregunta": "¿Ofrecen servicios online?",
+      "respuesta": "Sí, contamos con modalidad presencial y online para nuestras asesorías y capacitaciones, adaptándonos a las necesidades de cada empresario."
+    }
+  ],
+  "nosotros": {
+    "descripcion": "El Centro de Negocios Santiago de SERCOTEC es una institución dedicada a ofrecer servicios integrales de apoyo y acompañamiento a las micro, pequeñas y medianas empresas, con un enfoque especializado en gestión, innovación y fortalecimiento de capacidades.",
+    "puntos": [
+      "Más de 10 años apoyando empresas en Santiago",
+      "Equipo de profesionales especializados",
+      "Servicios preventivos y correctivos",
+      "Vinculación con redes de apoyo institucional",
+      "Acceso a programas de financiamiento"
+    ]
+  },
+  "contactos": []
+}
